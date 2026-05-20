@@ -1,8 +1,5 @@
 import pandas as pd
 
-# =========================
-# CSV讀取
-# =========================
 
 df = pd.read_csv("SuperMarket Analysis.csv")
 
